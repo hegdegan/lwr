@@ -12,6 +12,7 @@
     "stage": "yarn build && yarn start"
   },
   "dependencies": {
+    "lwc": "2.5.8",
     "lwr": "0.9.4"
   },
   "engines": {
